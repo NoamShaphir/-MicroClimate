@@ -1,0 +1,39 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (if applicable)
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.json
+*.xlsx
+*.zip
+*.h5
+*.pkl
+
+# Environment & secrets
+.env
+*.env
+*.secret
+*.token
+*.credentials
+
+# Jupyter runtime files
+*.log
+*.out
