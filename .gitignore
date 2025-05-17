@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.so
 *.pyd
+pyenv.cfg
 
 # Virtual environment
 venv/
