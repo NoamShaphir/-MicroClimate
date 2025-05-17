@@ -5,6 +5,9 @@ matplotlib
 scipy
 seaborn
 scikit-learn
+squarify
+plotly
+IPython
 
 # Jupyter environment
 jupyterlab
