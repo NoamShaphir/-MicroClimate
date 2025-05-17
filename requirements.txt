@@ -18,9 +18,6 @@ openpyxl        # read/write .xlsx files
 # For progress bars (optional)
 tqdm
 
-# Optional: Visualization enhancement
-seaborn
-
 # Optional: File system tools
 python-dotenv   # for managing env variables if needed
 
