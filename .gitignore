@@ -11,6 +11,9 @@ env/
 ENV/
 .venv/
 .ENV/
+.venv/Scripts/python.exe
+.venv/Scripts/pythonw.exe
+.venv/pyvenv.cf
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
